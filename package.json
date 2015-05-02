@@ -1,0 +1,20 @@
+{
+  "name": "mock-webtorrent",
+  "version": "0.0.1",
+  "main": "./index.js",
+  "author": {
+    "name": "ArtskydJ",
+    "email": "josephdykstra@gmail.com"
+  },
+  "description": "Mock of feross/webtorrent, for tests",
+  "keywords": [
+    "webtorrent",
+    "mock",
+    "fixture",
+    "stub"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArtskydJ/mock-webtorrent.git"
+  }
+}
